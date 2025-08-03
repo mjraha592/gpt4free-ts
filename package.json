@@ -56,7 +56,7 @@
     "string-similarity": "^4.0.4",
     "tls-client": "^0.0.5",
     "turndown": "^7.1.2",
-    "user-agents": "^1.0.1367",
+    "user-agents": "^1.1.598",
     "uuid": "^9.0.0",
     "winston": "^3.10.0",
     "ws": "^8.13.0"
